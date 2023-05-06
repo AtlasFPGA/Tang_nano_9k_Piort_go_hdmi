@@ -1,0 +1,1 @@
+Cuerpo del fichero donde esta el código de descripción de hardware.
