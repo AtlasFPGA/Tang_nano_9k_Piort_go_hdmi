@@ -1,0 +1,6 @@
+  En esta carpeta estan los pll asociados a la generación necesaria para tener la salida HDMI;
+En teste caso partimos de 27Mhz del reloj que tiene asociada la placa, y tenemos dos pll uno de ellos genera la frecuencia
+de 5 veces la frecuencia de los puntos lumínicos en pantalla.
+
+  Nota importante los pll disponibles en la versión de estudiante se agotan rápidamente, 
+además no disponen de muchas salidas de reloj comparando con otras soluciones del mercado.
