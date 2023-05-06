@@ -1,0 +1,1 @@
+En el IDE de gowin si existe este pll encriptado para generar frecuencias, pero suele agotarse pronto.
